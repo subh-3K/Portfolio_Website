@@ -20,7 +20,7 @@ const Contact = () => {
 
                 <div className=' mb-4 mt-8'>
                 <FaPhone className=' inline-block text-green-500 mr-2'></FaPhone>
-                <span>+91-XXXXXXXXXX</span>
+                <span>+91-XXXXXXXXX</span>
                 </div>
 
                 <div className=' mb-4 mt-8'>
