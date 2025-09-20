@@ -21,25 +21,30 @@ Visit the live portfolio: [sprightly-pudding-c2a405.netlify.app](https://spright
 - About Me and Services sections
 
 ## 📁 Project Structure
-src/ ├── assets/ # Images and media ├── components/ # Reusable UI components ├── pages/ # Page components (Home, About, Projects, Contact) ├── App.js # Main app component ├── index.js # Entry point
+src/ 
+├── assets/ # Images and media 
+├── components/ # Reusable UI components 
+├── pages/ # Page components (Home, About, Projects, Contact) 
+├── App.js # Main app component 
+├── index.js # Entry point
 
-🚢 Deployment
+## 🚢 Deployment
 This site is deployed using Netlify. To deploy your own version:
 
-Push your code to GitHub.
+- Push your code to GitHub.
 
-Login to Netlify and click "New site from Git".
+- Login to Netlify and click "New site from Git".
 
-Connect your GitHub repo and follow the prompts.
+- Connect your GitHub repo and follow the prompts.
 
-Set build command to npm run build and publish directory to build/.
+- Set build command to npm run build and publish directory to build/.
 
-📬 Contact
+## 📬 Contact
 Feel free to reach out via:
 
-Email: r.subham4334@gmail.com
+- Email: r.subham4334@gmail.com
 
-LinkedIn: (https://www.linkedin.com/in/subham-roy-9b0383289/)
+- LinkedIn: (https://www.linkedin.com/in/subham-roy-9b0383289/)
 
 
 
